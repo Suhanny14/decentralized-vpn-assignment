@@ -103,7 +103,7 @@ your-name-task1/
 
 ---
 
-## 🔍 What We're Looking For
+## What We're Looking For
 
 - Explain concepts in your own words
 - Show you understand WHY things work, not just WHAT they are
