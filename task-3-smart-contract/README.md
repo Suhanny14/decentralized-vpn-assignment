@@ -397,8 +397,6 @@ your-name-task2/
 ---
 
 
----
-
 
 **Good luck! We're excited to see your submissions! 🎉**
 
