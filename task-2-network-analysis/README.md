@@ -1,3 +1,5 @@
+30 Points for this assignment. 
+
 ## **Assignment: “Across the Internet” — Understanding and Building the Network**
 
 ---
