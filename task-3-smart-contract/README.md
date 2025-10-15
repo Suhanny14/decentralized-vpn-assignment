@@ -1,4 +1,4 @@
-# Task 2: Smart Contract Development & Local Deployment 🔗
+# Task 3: Smart Contract Development & Local Deployment 🔗
 
 **Points:** 50
 
