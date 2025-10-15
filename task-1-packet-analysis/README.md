@@ -1,4 +1,4 @@
-# Task 1: Network Traffic Analysis 📡
+# Task 1: Network Traffic Analysis 
 
 **Points:** 20
 
