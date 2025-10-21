@@ -23,7 +23,7 @@ mkdir hello-vpn-contract
 cd hello-vpn-contract
 npm init -y
 npm install --save-dev hardhat
-npx hardhat init
+npx hardhat --init
 ```
 
 3. Choose "Create a JavaScript project" when prompted
