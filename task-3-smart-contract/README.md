@@ -16,6 +16,7 @@ In this task, you'll learn the fundamentals of blockchain development by creatin
    - Node.js (v16 or higher) from [nodejs.org](https://nodejs.org/)
    - A code editor (VS Code recommended)
    - MetaMask browser extension from [metamask.io](https://metamask.io/)
+   - use **git bash** for terminal 
 
 2. **Set up your Hardhat project:**
 ```bash
@@ -26,7 +27,11 @@ npm install --save-dev hardhat
 npx hardhat --init
 ```
 
-3. Choose "Create a JavaScript project" when prompted
+3. Choose **hardhat 3**  when prompted
+4. Choose relative path **.**
+5. Choose **mocha-ethers**
+6. Give **Y** to ESM change
+7. Give **Y** to default package installation 
 
 ### Answer these in `setup-documentation.md`:
 
@@ -42,7 +47,7 @@ npx hardhat --init
   - `contracts/` folder
   - `scripts/` folder
   - `test/` folder
-- What is `hardhat.config.js` used for?
+- What is `hardhat.config.ts` used for?
 
 ---
 
