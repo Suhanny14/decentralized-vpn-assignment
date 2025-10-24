@@ -56,7 +56,7 @@ npx hardhat --init
 **Tools:** Solidity, Hardhat
 
 ### What to do:
-1. Delete the default `Lock.sol` contract
+1. Delete the default `Lock.sol`(Hardhat 2) or `Counter.sol` (Hardhat 3) contract
 2. Create a new file: `contracts/HelloVPN.sol`
 3. Implement a **simple contract** with these features:
 
